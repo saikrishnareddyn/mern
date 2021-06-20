@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb://nalla123:nalla123@contactkeeper-shard-00-00.1boze.mongodb.net:27017,contactkeeper-shard-00-01.1boze.mongodb.net:27017,contactkeeper-shard-00-02.1boze.mongodb.net:27017/contactkeeper?ssl=true&replicaSet=atlas-114ymd-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
